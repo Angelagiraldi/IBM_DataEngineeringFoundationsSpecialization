@@ -68,6 +68,7 @@ The different types of Data Repositories include:
 * Data Marts, that are essentially sub-sections of a data warehouse, built to isolate data for a particular business function or use case.
 * Data Lakes, that serve as storage repositories for large amounts of structured, semi-structured, and unstructured data in their native format.
 * Big Data Stores, that provide distributed computational and storage infrastructure to store, scale, and process very large data sets.
+
 The ETL, or Extract Transform and Load, Process is an automated process that converts raw data into analysis-ready data by:
 
 * Extracting data from source locations.
@@ -162,3 +163,23 @@ Tools and technologies play a critical role in the implementation of a governanc
 * Hosting options that comply with requirements and restrictions for international data transfers.
 * Monitoring and Alerting functionalities.
 * Data erasure tools that ensure deleted data cannot be retrieved.
+
+## Career Opportunities and Learning Paths
+
+Data Engineering is reported to be one of the top ten jobs experiencing tremendous growth in the U.S. today. It is also reported to be one of the fastest growing tech occupations with year-over-year growth of around 50%.
+
+Currently, the demand for skilled data engineers far outweighs the supply, which means companies are willing to pay a premium to hire skilled data engineers.
+
+Data engineering roles in organizations tend to break the specialization up into Data Architecture, Database Design and Architecture, Data Platforms, Data Pipelines and ETL, Data Warehouses, and Big Data.
+
+Regardless of the niche you choose to specialize in, knowledge of operating systems, languages, databases, and infrastructure components, is essential.
+
+To work your way up from a Junior Data Engineer to a Lead or Principal Data Engineer, you need to continually advance your technical, functional, and soft skills from a foundational level to an expert level. You need to not only expand your skills in your niche area, but also into other areas of data engineering at the same time.
+
+Big Data Engineers and Machine Learning Engineers are some of the emerging roles in this field and they require specialized skills in addition to basic data engineering.
+
+There are several paths you can consider in order to gain entry into the data engineering field.
+
+* An academic degree in Computer Science or engineering qualifies you for an entry-level job.
+* If you are not a graduate, or a graduate in a non-relate stream, you can earn professional certifications from online multi-course specializations offered by learning platforms such as Coursera, edX, and Udacity.
+* If you have a coding background, or you are an IT Support Specialist, a Software Tester, a Programmer, or a data professional such as a Statistician, Data Analyst, or BI Analyst, you can upskill with the help of online courses to become a Data Engineer.
